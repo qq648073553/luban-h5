@@ -37,7 +37,7 @@ cd back-end/h5-api && yarn && yarn dev
 cd front-end/h5 && yarn && yarn build:engine && yarn dev
 
 
-#!en: default database is sqlite3(db location: h5-api/.tmp/data.db)
+!#en: default database is sqlite3(db location: h5-api/.tmp/data.db)
 
 # visit http://localhost:1337/admin to config the api permissions
 
@@ -62,7 +62,7 @@ wget -qO- https://raw.githubusercontent.com/ly525/luban-h5/dev/deploy/ubuntu-ins
 
 ## Links
 - Documents
-    * [Chinese online document](https://ly525.github.io/luban-h5/zh/)
+    * [Chinese online document](https://ly525.gitee.io/luban-h5/zh/)
     * [English](https://ly525.github.io/luban-h5/en/getting-started/introduction.html)
 
 - Source Code
